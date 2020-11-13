@@ -1,0 +1,129 @@
+* {
+    margin 0;
+}
+p, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size:  20px;
+}
+
+body {
+    background-color:  #E8E9F3;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainComment {
+    background-color: white;
+    margin: 0px 35px;
+    position: sticky;
+    top: 0;
+    
+    
+}
+
+img {
+    height: 30px;
+}
+
+.firstComment {
+    background-color: whitesmoke;
+    border-radius: 3px;
+    width: 90%;
+    
+    align-items: center;
+    margin: 45px;
+    
+}
+
+.firstCommentContainer {
+    margin: 0;
+    width: 90%;
+    margin: 45px;
+    
+
+}
+
+.formContainer {
+    display: flex;
+    justify-content: flex-start;
+    margin: 0px 0px 0px 0px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+width: 100%;
+}
+
+
+
+
+#commentForm {
+    width: 100%
+}
+
+.pic {
+
+}
+
+.xerName {
+    margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px
+
+}
+
+
+.editClass{
+    padding-right: 5px;
+    text-decoration: none;
+    font-size: 10px;
+}
+.deleteClass {
+    text-decoration: none;
+    font-size: 10px;
+}
+
+.xment{
+    padding-top: 10px;
+}
+
+.linkWrapper {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 45px;
+    padding-right: 10px;
+}
+
+.formz { 
+
+
+}
+
+.comment {
+    padding-left: 15px
+}
+
+.editFormClass {
+    bottom: 0;
+    margin-top: 75px
+}
+
+.noDisplay {
+    display: none
+}
+
+#submitBtn, #editSubmit  {
+    background-color: #484A47;
+  border: none;
+  color: white;
+  padding-right: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+h5, h2 {
+    padding-left: 25px
+}
